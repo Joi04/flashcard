@@ -13,10 +13,10 @@ criaCartao(
 criaCartao(
     'Gastronomia',
     'Qual o prato mais conhecido na gatronomia brasileira?',
-    ''
+    'Feijoada'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Montaria',
+    'Quais são os tipos de montaria em cavalos?',
+    'Cutiano, Sela Americana e Bareback'
 )
