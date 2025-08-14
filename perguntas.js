@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Coisas sobre cavalos',
+    'Qual a é a rça de cavalo mais grande do mundo?',
+    'Shire'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Carros esportivos',
+    'Qual é o carro esportivo mais potente?',
+    'Koenigsegg Gemera'
 )
 
 criaCartao(
