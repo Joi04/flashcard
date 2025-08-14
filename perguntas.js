@@ -16,7 +16,7 @@ criaCartao(
     'Feijoada'
 )
     criaCartao(
-    'Montaria',
+    'Montarias',
     'Quais são os tipos de montaria em cavalos?',
     'Cutiano, Sela Americana e Bareback'
 )
