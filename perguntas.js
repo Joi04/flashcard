@@ -1,7 +1,7 @@
 criaCartao(
     'Coisas sobre cavalos',
     'Qual a é a raça de cavalo mais grande do mundo?',
-    ,
+    
     'Shire'
 )
 
